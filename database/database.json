@@ -1,0 +1,14 @@
+[
+  {
+    "user": {
+      "email": "abdullahikhalilmuaz@gmail.com",
+      "username": "AbdullahiHMuaz"
+    },
+    "date": "2025-01-30T06:30:30.714Z",
+    "title": "POST OF THE YEAR",
+    "image": "http://localhost:5000/public/uploads/1738218630597-FB_IMG_17378213761137658.jpg",
+    "body": "Celebrating the post of the year at star event arena",
+    "likes": [],
+    "comments": []
+  }
+]

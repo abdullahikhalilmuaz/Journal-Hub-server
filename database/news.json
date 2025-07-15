@@ -1,0 +1,14 @@
+[
+  {
+    "user": {
+      "email": "abdullahikhalilmuaz@gmail.com",
+      "username": "maisaje"
+    },
+    "date": "2025-01-30T06:28:21.011Z",
+    "title": "some",
+    "image": "http://localhost:5000/public/uploads/1738218500881-Screenshot_20250125-055203.png",
+    "body": "text",
+    "likes": [],
+    "comments": []
+  }
+]

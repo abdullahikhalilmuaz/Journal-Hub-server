@@ -1,0 +1,130 @@
+[
+  {
+    "user": {
+      "email": "user@example.com",
+      "username": "sernname"
+    },
+    "date": "30/01/2025",
+    "title": "latest research",
+    "image": null,
+    "body": "new discovery in AI",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "user@example.com",
+      "username": "sernname"
+    },
+    "date": "30/01/2025",
+    "title": "latest research",
+    "image": null,
+    "body": "new discovery in AI",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "abdullahikhalilmuaz@gmail.com",
+      "username": "Maisaje"
+    },
+    "date": "30/01/2025",
+    "title": "best post of the year",
+    "image": "http://localhost:5000/public/uploads/1738217391337-Screenshot_20250125-055203.png",
+    "body": "we are celebrating the best post of the year",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "abdullahikhalilmuaz@gmail.com",
+      "username": "Maisaje"
+    },
+    "date": "30/01/2025",
+    "title": "post of the year",
+    "image": "http://localhost:5000/public/uploads/1738217543067-Screenshot_20250125-055203.png",
+    "body": "celebrating the best post of the year at star event arena",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "abdullahikhalilmuaz@gmail.com",
+      "username": "Maisaje"
+    },
+    "date": "30/01/2025",
+    "title": "post of the year",
+    "image": "http://localhost:5000/public/uploads/1738217773476-Screenshot_20250125-055203.png",
+    "body": "celebrating the best post of the year",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "user@example.com",
+      "username": "sernname"
+    },
+    "date": "30/01/2025",
+    "title": "latest research",
+    "image": null,
+    "body": "new discovery in AI",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "user@example.com",
+      "username": "sernname"
+    },
+    "date": "30/01/2025",
+    "title": "latest research",
+    "image": null,
+    "body": "new discovery in AI",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  },
+  {
+    "user": {
+      "email": "abdullahikhalilmuaz@gmail.com",
+      "username": "s"
+    },
+    "date": "30/01/2025",
+    "title": "s",
+    "image": "http://localhost:5000/public/uploads/1738218146918-images.jpeg",
+    "body": "s",
+    "likes": [
+      0
+    ],
+    "comments": [
+      0
+    ]
+  }
+]

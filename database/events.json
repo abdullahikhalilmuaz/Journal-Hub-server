@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1741414288297",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414338771",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414523290",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414534466",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414534773",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414535011",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414535303",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414535759",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741414536155",
+    "title": "AI in Academic Research Webinar",
+    "description": "Join us for a webinar on the role of AI in academic research.",
+    "host": "University of Lagos",
+    "location": "Virtual",
+    "date": "2023-10-15",
+    "time": "10:00 AM",
+    "createdBy": "institution-email@example.com"
+  },
+  {
+    "id": "1741420998059",
+    "title": "Freshers Matriculation",
+    "description": "New Students Matriculation",
+    "host": "Federal College of Education Katsina",
+    "location": "College Auditorium ",
+    "date": "2025-03-10",
+    "time": "01:30",
+    "createdBy": "Federal College of Education Katsina"
+  },
+  {
+    "id": "1741421306895",
+    "title": "Something big",
+    "description": "Provost ",
+    "host": "Federal College of Education Katsina",
+    "location": "Admin",
+    "date": "2026-05-20",
+    "time": "12:00",
+    "createdBy": "Federal College of Education Katsina"
+  }
+]
